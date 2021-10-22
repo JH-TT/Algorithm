@@ -1,4 +1,4 @@
 # Algorithm
 ## :musical_note: Contents
-* Sort
+* [Sort](https://github.com/JH-TT/Algorithm/blob/main/Search/Search.md)
 * Search
