@@ -1,4 +1,4 @@
-# :fire: Sort Algorithm
+# :fire: 정렬 알고리즘(Sort)
 
 ## Contents
 * 버블 정렬(Bubble)
