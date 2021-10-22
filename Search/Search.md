@@ -1,4 +1,4 @@
-# :eyes: Search Algorithm
+# :eyes: 탐색 알고리즘(Search)
 ## Contents
 * 순차 탐색
 * 이진 탐색
