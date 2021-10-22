@@ -15,3 +15,5 @@
 * 디지털 탐색 트리
 * 기수 탐색 트라이
 * 패트리샤 트리
+
+[메뉴로 가기](https://github.com/JH-TT/Algorithm)
